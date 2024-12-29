@@ -1,0 +1,115 @@
+### Problem Statement
+You are given a list of strings called words, all of the same length, and a string target. Your task is to determine the number of ways to form the target string using characters from the words list under the following rules:
+The target should be formed from left to right.
+To form the ith character (0-indexed) of target, you can choose the kth character of the jth string in words if target[i] = words[j][k].
+Once you use the kth character of the jth string in words, you can no longer use any character from any string in words where the index is less than or equal to k.
+You can use multiple characters from the same string in words, provided that the above conditions are met.
+Return the number of ways to form the target from words. Since the answer may be too large, return it modulo 
+1
+0
+9
++
+7
+10 
+9
+ +7.
+### Example 1:
+#### Input:
+
+text
+words = ["acca","bbbb","caca"], target = "aba"
+#### Output:
+
+text
+6
+### Example 2:
+#### Input:
+
+text
+words = ["abba","baab"], target = "bab"
+#### Output:
+
+text
+4
+### Approach
+The solution employs a depth-first search (DFS) with memoization to efficiently compute the number of ways to form the target string:
+Character Counting: Create a 2D array c that counts how many times each character appears at each position across all strings in words. This helps in quickly determining how many options are available for each character in target.
+#### Recursive DFS:
+Define a recursive function dfs(i, j) where:
+i is the current index in target.
+j is the current index in any word being considered.
+If you reach beyond the last character of target, return 1 (a valid way has been found).
+If you exceed available characters in words, return 0 (no valid way).
+Use memoization to store results for subproblems to avoid redundant calculations.
+#### Recursively compute:
+The number of ways by skipping the current character.
+The number of ways by using characters that match and updating indices accordingly.
+Modulo Operation: Since results can be large, every operation involving addition is taken modulo 
+1
+0
+9
++
+7
+10 
+9
+ +7.
+#### Time Complexity
+The time complexity is 
+𝑂
+(
+𝑚
+×
+𝑛
+)
+O(m×n), where:
+𝑚
+m is the length of target.
+𝑛
+n is the length of each word in words.
+This complexity arises because each character in target can potentially explore all characters in all words.
+#### Space Complexity
+The space complexity is 
+𝑂
+(
+𝑚
+×
+𝑛
+)
+O(m×n) due to:
+The memoization table (f) which stores results for each combination of indices.
+The count array (c) which stores counts for each position and character.
+
+```markdown
+class Solution {
+     private int m,n;
+    private String t;
+    private Integer[][] f;
+    private int[][] c;
+    private final int mod=(int)1e9+7;
+    public int numWays(String[] words, String target) {
+        m= target.length();
+        n= words[0].length();
+        f= new Integer[m][n];
+        t= target;
+        c= new int[n][26];
+        for(var w:words) {
+            for(int j=0;j<n;++j)
+            {
+                c[j][w.charAt(j)-'a']++;
+            }
+        }
+        return dfs(0,0);
+    }
+
+    private int dfs(int i,int j)
+    {
+        if(i>=m) return 1;
+        if(j>=n) return 0;
+        if(f[i][j]!=null) return f[i][j];
+        long ans= dfs(i,j+1);
+        ans+= 1L*dfs(i+1,j+1)*c[j][t.charAt(i)-'a'];
+        ans%= mod;
+        return f[i][j]= (int)ans;
+    }
+}
+```
