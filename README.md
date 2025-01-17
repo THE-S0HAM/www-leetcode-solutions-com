@@ -8,26 +8,37 @@ Welcome to my LeetCode solutions repository! 🎉 This is a collection of my sol
 - **Clear Explanations**: Each solution comes with a detailed explanation of the approach, including why I chose that method, the time and space complexities, and edge cases handled.
 - **Optimized Code**: The code is written with efficiency in mind, focusing on both time and space complexity optimization whenever possible.
 
-### Example Problem Structure:
-Each problem is documented with the following format for consistency and ease of use:
+<h1>  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> GeeksforGeeks Problem of the Day Solutions 2024  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"></h1>
 
-```markdown
-## Problem: [Problem Title]
 
-### Problem Statement:
-[Provide a summary of the problem statement, what needs to be achieved, and any constraints.]
+<div align="center">
 
-### Approach:
-[Explain the thought process and steps taken to solve the problem. Mention any algorithms or techniques used, like Dynamic Programming, Sliding Window, BFS, etc.]
+## 📅 **January 2024 Problem of the Day Solutions** 📅
 
-### Time and Space Complexity:
-- Time Complexity: [Explain the time complexity in Big-O notation.]
-- Space Complexity: [Explain the space complexity in Big-O notation.]
+[![Smart AI Resume Analyzer](https://img.shields.io/badge/Smart%20AI%20Resume%20Analyzer-Enhance%20Your%20Job%20Search-007acc?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)
 
-```
-### How to Use This Repo:
-- **Browse and Search**: Navigate through the categories or use search to find a specific problem.
-- **Clone and Test**: Clone the repo to your local machine, test the solutions, and adapt them as needed.
-- **Contribute**: Feel free to suggest improvements, optimizations, or new solutions through pull requests!
+[![Support Rust Learning](https://img.shields.io/badge/Support%20Rust%20Learning-Contribute%20Now-7a0c2f?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Hunterdii/30-Days-Of-Rust)
+
+
+
+| **Date**  | **Problem Name**                                | **C**                                                                                                                              | **C++**                                                                                                                            | **Java**                                                                                                                           | **Python**                                                                                                                         |
+|:---------:|:-----------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+| 01 Jan    | Print Anagrams Together 🔡👥🤝                        |  | [Solution](/January%202025%20GFG%20SOLUTION/01(Jan)%20Print%20Anagrams%20Together.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/01(Jan)%20Print%20Anagrams%20Together.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/01(Jan)%20Print%20Anagrams%20Together.md#code-python) |
+| 02 Jan    | Subarrays with sum K 🔢➕🎯                        |  | [Solution](/January%202025%20GFG%20SOLUTION/02(Jan)%20Subarrays%20with%20sum%20K.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/02(Jan)%20Subarrays%20with%20sum%20K.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/02(Jan)%20Subarrays%20with%20sum%20K.md#code-python) |
+| 03 Jan    | Count Subarrays with given XOR 💻🔢🧮                        |  | [Solution](/January%202025%20GFG%20SOLUTION/03(Jan)%20Count%20Subarrays%20with%20given%20XOR.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/03(Jan)%20Count%20Subarrays%20with%20given%20XOR.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/03(Jan)%20Count%20Subarrays%20with%20given%20XOR.md#code-python) |
+| 04 Jan    | Count all triplets with given sum in sorted array 🔢🔽🔍	                        |  | [Solution](/January%202025%20GFG%20SOLUTION/04(Jan)%20Count%20all%20triplets%20with%20given%20sum%20in%20sorted%20array.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/04(Jan)%20Count%20all%20triplets%20with%20given%20sum%20in%20sorted%20array.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/04(Jan)%20Count%20all%20triplets%20with%20given%20sum%20in%20sorted%20array.md#code-python) |
+| 05 Jan    | Count Pairs whose sum is less than target 👫🔢👨‍💻	                        |  | [Solution](/January%202025%20GFG%20SOLUTION/05(Jan)%20Count%20Pairs%20whose%20sum%20is%20less%20than%20target.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/05(Jan)%20Count%20Pairs%20whose%20sum%20is%20less%20than%20target.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/05(Jan)%20Count%20Pairs%20whose%20sum%20is%20less%20than%20target.md#code-python) |
+| 06 Jan    | Sum Pair closest to target 🎯💡🔢	                        |  | [Solution](/January%202025%20GFG%20SOLUTION/06(Jan)%20Sum%20Pair%20closest%20to%20target.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/06(Jan)%20Sum%20Pair%20closest%20to%20target.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/06(Jan)%20Sum%20Pair%20closest%20to%20target.md#code-python) |
+| 07 Jan    | Pair with given sum in a sorted array 🔢🧮✅                        |  | [Solution](/January%202025%20GFG%20SOLUTION/07(Jan)%20Pair%20with%20given%20sum%20in%20a%20sorted%20array.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/07(Jan)%20Pair%20with%20given%20sum%20in%20a%20sorted%20array.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/07(Jan)%20Pair%20with%20given%20sum%20in%20a%20sorted%20array.md#code-python) |
+| 08 Jan    | Count the number of possible triangles 📐📏🧮                        | [Solution](/January%202025%20GFG%20SOLUTION/08(Jan)%20Count%20the%20number%20of%20possible%20triangles.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/08(Jan)%20Count%20the%20number%20of%20possible%20triangles.md#code-c-1) | [Solution](/January%202025%20GFG%20SOLUTION/08(Jan)%20Count%20the%20number%20of%20possible%20triangles.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/08(Jan)%20Count%20the%20number%20of%20possible%20triangles.md#code-python) |
+| 09 Jan    | Indexes of Subarray Sum 📊📐🔍                       |  | [Solution](/January%202025%20GFG%20SOLUTION/09(Jan)%20Indexes%20of%20Subarray%20Sum.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/09(Jan)%20Indexes%20of%20Subarray%20Sum.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/09(Jan)%20Indexes%20of%20Subarray%20Sum.md#code-python) |
+| 10 Jan    | Count distinct elements in every window 🔢🎯📈                       |  | [Solution](/January%202025%20GFG%20SOLUTION/10(Jan)%20Count%20distinct%20elements%20in%20every%20window.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/10(Jan)%20Count%20distinct%20elements%20in%20every%20window.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/10(Jan)%20Count%20distinct%20elements%20in%20every%20window.md#code-python) |
+| 11 Jan    | Longest substring with distinct characters 🧵🔤🧠                       |  | [Solution](/January%202025%20GFG%20SOLUTION/11(Jan)%20Longest%20substring%20with%20distinct%20characters.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/11(Jan)%20Longest%20substring%20with%20distinct%20characters.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/11(Jan)%20Longest%20substring%20with%20distinct%20characters.md#code-python) |
+| 12 Jan    | Trapping Rain Water 🌧️💧🏞️                      |  | [Solution](/January%202025%20GFG%20SOLUTION/12(Jan)%20Trapping%20Rain%20Water.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/12(Jan)%20Trapping%20Rain%20Water.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/12(Jan)%20Trapping%20Rain%20Water.md#code-python) |
+| 13 Jan    | Container With Most Water📦🌊📐                      |  | [Solution](/January%202025%20GFG%20SOLUTION/13(Jan)%20Container%20With%20Most%20Water.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/13(Jan)%20Container%20With%20Most%20Water.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/13(Jan)%20Container%20With%20Most%20Water.md#code-python) |
+| 14 Jan    | Equilibrium Point ⚖️🔍🧮                      |  | [Solution](/January%202025%20GFG%20SOLUTION/14(Jan)%20Equilibrium%20Point.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/14(Jan)%20Equilibrium%20Point.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/14(Jan)%20Equilibrium%20Point.md#code-python) |
+| 15 Jan    | Longest Subarray with Sum K 🌟🔍🛠️                     |  | [Solution](/January%202025%20GFG%20SOLUTION/15(Jan)%20Longest%20Subarray%20with%20Sum%20K.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/15(Jan)%20Longest%20Subarray%20with%20Sum%20K.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/15(Jan)%20Longest%20Subarray%20with%20Sum%20K.md#code-python) |
+| 16 Jan    | Largest subarray of 0's and 1's 🔢➕🔴                    |  | [Solution](/January%202025%20GFG%20SOLUTION/16(Jan)%20Largest%20subarray%20of%200's%20and%201's.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/16(Jan)%20Largest%20subarray%20of%200's%20and%201's.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/16(Jan)%20Largest%20subarray%20of%200's%20and%201's.md#code-python) |
+| 17 Jan    | Product array puzzle🧩📦✖                    |  | [Solution](/January%202025%20GFG%20SOLUTION/17(Jan)%20Product%20array%20puzzle.md#code-c) | [Solution](/January%202025%20GFG%20SOLUTION/17(Jan)%20Product%20array%20puzzle.md#code-java) | [Solution](/January%202025%20GFG%20SOLUTION/17(Jan)%20Product%20array%20puzzle.md#code-python) |
 
 I hope this repository helps you on your coding journey. Don’t hesitate to reach out if you have questions or suggestions. Happy coding! 💻
