@@ -18,4 +18,7 @@ Welcome to my LeetCode solutions repository! 🎉 This is a collection of my sol
 | **Date**  | **Problem Name**                                |                                                                          **JAVA**                                                                          |
 |:---------:|:-----------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 01 Jan    | 1422. Maximum Score After Splitting a String                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.md)    | 
-I hope this repository helps you on your coding journey. Don’t hesitate to reach out if you have questions or suggestions. Happy coding! 💻
+
+
+
+- **I hope this repository helps you on your coding journey. Don’t hesitate to reach out if you have questions or suggestions. Happy coding! 💻**
