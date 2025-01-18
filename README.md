@@ -8,7 +8,7 @@ Welcome to my LeetCode solutions repository! 🎉 This is a collection of my sol
 - **Clear Explanations**: Each solution comes with a detailed explanation of the approach, including why I chose that method, the time and space complexities, and edge cases handled.
 - **Optimized Code**: The code is written with efficiency in mind, focusing on both time and space complexity optimization whenever possible.
 
-<h1>  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> GeeksforGeeks Problem of the Day Solutions 2024  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"></h1>
+<h1>  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> LeetCode Problem of the Day Solutions 2025  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"></h1>
 
 
 <div align="center">
