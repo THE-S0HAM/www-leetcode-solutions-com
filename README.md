@@ -19,6 +19,7 @@ Welcome to my LeetCode solutions repository! 🎉 This is a collection of my sol
 |:---------:|:-----------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 01 Jan    | 1422. Maximum Score After Splitting a String                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.md)    |
 | 02 Jan    | 2559. Count Vowel Strings in Ranges                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2559.%20Count%20Vowel%20Strings%20in%20Ranges.md)    |
+| 03 Jan    | 2270. Number of Ways to Split Array                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2270.%20Number%20of%20Ways%20to%20Split%20Array.md)    |
 | 19 Jan    | 407. Trapping Rain Water II                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/407.%20Trapping%20Rain%20Water%20II.md)    |
 
  **I hope this repository helps you on your coding journey. Don’t hesitate to reach out if you have questions or suggestions. Happy coding! 💻**
