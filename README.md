@@ -24,7 +24,7 @@ Welcome to my LeetCode solutions repository! 🎉 This is a collection of my sol
 | 20 Jan    | 2661. First Completely Painted Row or Column                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2661.%20First%20Completely%20Painted%20Row%20or%20Column.md)    |
 | 21 Jan   | 2017. Grid Game                           |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2017.%20Grid%20Game.md)        |
 | 22 Jan   | 1765. Map of Highest Peak                           |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/1765.%20Map%20of%20Highest%20Peak.md)        |
+| 25 Jan   | 2948. Make Lexicographically Smallest Array by Swapping Elements                           |    [Solution]( https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.md)        |
 
- 
 
 **I hope this repository helps you on your coding journey. Don’t hesitate to reach out if you have questions or suggestions. Happy coding! 💻**
