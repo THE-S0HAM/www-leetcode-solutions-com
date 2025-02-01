@@ -8,17 +8,23 @@ Welcome to my LeetCode solutions repository! 🎉 This is a collection of my sol
 - **Clear Explanations**: Each solution comes with a detailed explanation of the approach, including why I chose that method, the time and space complexities, and edge cases handled.
 - **Optimized Code**: The code is written with efficiency in mind, focusing on both time and space complexity optimization whenever possible.
 
-<h1>  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> GeeksforGeeks Problem of the Day Solutions 2024  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"></h1>
+<h1>  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> LeetCode Problem of the Day Solutions 2025  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"></h1>
 
 
 <div align="center">
 
 ## 📅 **January 2024 Problem of the Day Solutions** 📅
 
-| **Date**  | **Problem Name**                                |                                                                          **JAVA**                                                                          |
-|:---------:|:-----------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 01 Jan    | 1422. Maximum Score After Splitting a String                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.md)    | 
+| **Date** | **Problem Name**                                |                                                                          **JAVA**                                                                          |
+|:-------:|:-----------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 01 Jan   | 1422. Maximum Score After Splitting a String                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/1422.%20Maximum%20Score%20After%20Splitting%20a%20String.md)    |
+| 02 Jan   | 2559. Count Vowel Strings in Ranges                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2559.%20Count%20Vowel%20Strings%20in%20Ranges.md)    |
+| 03 Jan   | 2270. Number of Ways to Split Array                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2270.%20Number%20of%20Ways%20to%20Split%20Array.md)    |
+| 19 Jan   | 407. Trapping Rain Water II                          |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/407.%20Trapping%20Rain%20Water%20II.md)      |
+| 20 Jan    | 2661. First Completely Painted Row or Column                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2661.%20First%20Completely%20Painted%20Row%20or%20Column.md)    |
+| 21 Jan   | 2017. Grid Game                           |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2017.%20Grid%20Game.md)        |
+| 22 Jan   | 1765. Map of Highest Peak                           |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/1765.%20Map%20of%20Highest%20Peak.md)        |
+| 25 Jan   | 2948. Make Lexicographically Smallest Array by Swapping Elements                           |    [Solution]( https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2948.%20Make%20Lexicographically%20Smallest%20Array%20by%20Swapping%20Elements.md)        |
+| 26 Jan   | 2127. Maximum Employees to Be Invited to a Meeting                           |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Jan%202025/2127.%20Maximum%20Employees%20to%20Be%20Invited%20to%20a%20Meeting..md)        |
 
-
-
-- **I hope this repository helps you on your coding journey. Don’t hesitate to reach out if you have questions or suggestions. Happy coding! 💻**
+**I hope this repository helps you on your coding journey. Don’t hesitate to reach out if you have questions or suggestions. Happy coding! 💻**
