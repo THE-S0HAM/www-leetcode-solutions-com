@@ -8,10 +8,21 @@ Welcome to my LeetCode solutions repository! 🎉 This is a collection of my sol
 - **Clear Explanations**: Each solution comes with a detailed explanation of the approach, including why I chose that method, the time and space complexities, and edge cases handled.
 - **Optimized Code**: The code is written with efficiency in mind, focusing on both time and space complexity optimization whenever possible.
 
+
+<div align="center">
 <h1>  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"> LeetCode Problem of the Day Solutions 2025  <img src="https://github.com/user-attachments/assets/35f6838c-52f5-4e48-8a98-c5203f8c57e3" style="width:40px; color: #FFD700" alt="Star GIF"></h1>
 
 
 <div align="center">
+
+## 📅 **Feburary 2024 Problem of the Day Solutions** 📅
+
+| **Date** | **Problem Name**                                |                                                                          **Java**                                                       | **Python**                                                                              |    **C++**                                          |
+|:-------:|:-----------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|------------------------:|------------------------:|
+| 01 Feb   | 3151. Special Array I                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3151.%20Special%20Array%20I.md#code-java-)    |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3151.%20Special%20Array%20I.md#code-python)    |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3151.%20Special%20Array%20I.md#code-c)    |
+
+
+
 
 ## 📅 **January 2024 Problem of the Day Solutions** 📅
 
