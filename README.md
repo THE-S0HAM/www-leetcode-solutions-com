@@ -21,6 +21,10 @@ Welcome to my LeetCode solutions repository! 🎉 This is a collection of my sol
 |:-------:|:-----------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|------------------------:|------------------------:|
 | 01 Feb   | 3151. Special Array I                        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3151.%20Special%20Array%20I.md#code-java-)    |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3151.%20Special%20Array%20I.md#code-python)    |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3151.%20Special%20Array%20I.md#code-c)    |
 | 02 Feb   | 1752. Check if Array Is Sorted and Rotated        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md#code-java-)    |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md#code-python-)    |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/1752.%20Check%20if%20Array%20Is%20Sorted%20and%20Rotated.md#code-c-)    |
+| 03 Feb   | 3105. Longest Strictly Increasing or Strictly Decreasing Subarray        |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.md#code-java-)    |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.md#code-python-)    |    [Solution](https://github.com/THE-S0HAM/www-leetcode-solutions-com/blob/main/Feb%202025/3105.%20Longest%20Strictly%20Increasing%20or%20Strictly%20Decreasing%20Subarray.md#code-c-)    |
+
+
+
 
 
 
